@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // but I don't like this
+        // I am still alive
         // end of testing branch
         // so is testing really dead?
     }
