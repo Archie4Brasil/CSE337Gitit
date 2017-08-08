@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // but I don't like this
         // end of testing branch
+        // so is testing really dead?
     }
 }
