@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         // I am still alive
         // end of testing branch
         // so is testing really dead?
+        // making it official
     }
 }
